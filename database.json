@@ -52,7 +52,7 @@
     "dimensions": null,
     "size": "Large",
     "release_date": "June 2024",
-    "artist": "Peder Mørk Mønsted</"
+    "artist": null
   },
   {
     "name": "a-dash-for-the-timber-puzzle",
@@ -85,7 +85,7 @@
     "dimensions": "13.75 x 16.25 inches",
     "size": "Large",
     "release_date": "June 2024",
-    "artist": "<meta charset=\"ut"
+    "artist": null
   },
   {
     "name": "a-map-of-interesting-cape-cod-puzzle",
@@ -239,7 +239,7 @@
     "dimensions": "10.75 x 15",
     "size": "Large",
     "release_date": "February 2024",
-    "artist": "Edgar Hunt</"
+    "artist": null
   },
   {
     "name": "a-winters-day-puzzle",
@@ -624,7 +624,7 @@
     "dimensions": null,
     "size": "Large",
     "release_date": null,
-    "artist": "</"
+    "artist": null
   },
   {
     "name": "big-game-fish-map-puzzle",
@@ -1075,7 +1075,7 @@
     "dimensions": "9.75 x 12.25",
     "size": null,
     "release_date": "April 2024",
-    "artist": "Jane Human</"
+    "artist": null
   },
   {
     "name": "centenario-puzzle",
@@ -1504,7 +1504,7 @@
     "dimensions": "14.75 x 15 inches",
     "size": "Large",
     "release_date": null,
-    "artist": "Lisa Graa Jensen</"
+    "artist": null
   },
   {
     "name": "cooper-puzzle",
@@ -1878,7 +1878,7 @@
     "dimensions": null,
     "size": "Large",
     "release_date": "July 2024",
-    "artist": "Robert Delaunay</"
+    "artist": null
   },
   {
     "name": "electric-fox-puzzle",
@@ -2043,7 +2043,7 @@
     "dimensions": null,
     "size": "Large",
     "release_date": null,
-    "artist": "</"
+    "artist": null
   },
   {
     "name": "fine-wind-clear-morning-puzzle",
@@ -2450,7 +2450,7 @@
     "dimensions": "11.75 x 14.5",
     "size": "Large",
     "release_date": "February 2024",
-    "artist": "J.W. Ludlow</"
+    "artist": null
   },
   {
     "name": "goldfish-puzzle",
@@ -2516,7 +2516,7 @@
     "dimensions": "10.75 x 14.25",
     "size": "Large",
     "release_date": "February 2024",
-    "artist": "William Saville-Kent</"
+    "artist": null
   },
   {
     "name": "great-blue-heron-puzzle",
@@ -3286,7 +3286,7 @@
     "dimensions": null,
     "size": "Large",
     "release_date": "January 2024",
-    "artist": "Jena DellaGrottaglia</"
+    "artist": null
   },
   {
     "name": "liberty-eagle-puzzle",
@@ -3385,7 +3385,7 @@
     "dimensions": "17.25 x 12.75 inches",
     "size": "Large",
     "release_date": "July 2023",
-    "artist": "Jena DellaGrottaglia</"
+    "artist": null
   },
   {
     "name": "lovers-puzzle",
@@ -4067,7 +4067,7 @@
     "dimensions": "17.25 x 12.75 inches",
     "size": "Large",
     "release_date": null,
-    "artist": "Jena DellaGrottaglia</"
+    "artist": null
   },
   {
     "name": "palisade-peach-basket-puzzle",
@@ -4452,7 +4452,7 @@
     "dimensions": "14.75 x 15.75 inches",
     "size": "Large",
     "release_date": null,
-    "artist": "Lawren Harris</"
+    "artist": null
   },
   {
     "name": "regatta-puzzle",
@@ -4650,7 +4650,7 @@
     "dimensions": "12.75 x 18.5 inches",
     "size": null,
     "release_date": "September 2023",
-    "artist": "Master of Guillebert de Mets</"
+    "artist": null
   },
   {
     "name": "saint-nicholas-puzzle",
@@ -4991,7 +4991,7 @@
     "dimensions": null,
     "size": "Large",
     "release_date": "July 2024",
-    "artist": "Alex Williams</"
+    "artist": null
   },
   {
     "name": "spring-garden-puzzle",
@@ -5486,7 +5486,7 @@
     "dimensions": null,
     "size": null,
     "release_date": null,
-    "artist": "John Quidor</"
+    "artist": null
   },
   {
     "name": "the-heart-of-a-bear-puzzle",
@@ -5739,7 +5739,7 @@
     "dimensions": "17 x 11.75 inches",
     "size": "Large",
     "release_date": null,
-    "artist": "Rebecca Campbell</"
+    "artist": null
   },
   {
     "name": "the-red-vineyard-at-arles",
